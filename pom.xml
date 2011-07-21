@@ -10,7 +10,7 @@
 	<groupId>fr.paris.lutece.plugins</groupId>
 	<artifactId>plugin-adminauthenticationdatabase</artifactId>
 	<packaging>lutece-plugin</packaging>
-	<version>2.0.5-SNAPSHOT</version>
+	<version>2.0.5</version>
 	<name>Lutece adminauthenticationdatabase plugin</name>
 
 	<repositories>
@@ -37,8 +37,8 @@
 		<jiraComponentId>10032</jiraComponentId>
 	</properties>
     <scm>
-        <connection>scm:svn:http://dev.lutece.paris.fr/svn/lutece/portal/trunk/plugins/authentication/plugin-adminauthenticationdatabase</connection>
-        <developerConnection>scm:svn:https://dev.lutece.paris.fr/svn/lutece/portal/trunk/plugins/authentication/plugin-adminauthenticationdatabase</developerConnection>
-        <url>http://dev.lutece.paris.fr/viewvc/lutece/portal/trunk/plugins/authentication/plugin-adminauthenticationdatabase</url>
+        <connection>scm:svn:http://dev.lutece.paris.fr/svn/lutece/portal/tags/plugin-adminauthenticationdatabase-2.0.5</connection>
+        <developerConnection>scm:svn:https://dev.lutece.paris.fr/svn/lutece/portal/tags/plugin-adminauthenticationdatabase-2.0.5</developerConnection>
+        <url>http://dev.lutece.paris.fr/viewvc/lutece/portal/tags/plugin-adminauthenticationdatabase-2.0.5</url>
     </scm>
 </project>
