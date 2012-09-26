@@ -213,6 +213,15 @@ public class AdminDatabaseAuthentication implements AdminAuthentication
         // TODO Auto-generated method stub
         return null;
     }
+    
+    /* (non-Javadoc)
+     * @see fr.paris.lutece.portal.business.user.authentication.AdminAuthentication#getLostPasswordPageUrl()
+     */
+    public String getLostLoginPageUrl(  )
+    {
+        // TODO Auto-generated method stub
+        return null;
+    }
 
     /**
      * @see fr.paris.lutece.portal.business.user.authentication.AdminAuthentication#getUserList()
